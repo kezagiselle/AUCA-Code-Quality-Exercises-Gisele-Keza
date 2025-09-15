@@ -11,9 +11,9 @@
 
 
 //we need the number as a string
-let num = 100000;
-let str = num.toString();
-console.log(str);
+let number = 100000;
+let stringNumber = number.toString();
+console.log(stringNumber);
 
 //if the number is negative, we keep the minus sign separate
 let isNegative = false;
